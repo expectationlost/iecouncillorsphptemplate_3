@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 
 $council = "Galway City Council";
 $uri = "http://www.galwaycity.ie/AllServices/YourCouncil/CouncilMembers/";
